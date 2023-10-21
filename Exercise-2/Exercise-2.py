@@ -7,4 +7,4 @@ elif coupon == 'member' :
     price *= 0.8
 else :
     price *= 0.95
-print('할인된 가격은 {:.0f}', .format(price))
+print('할인된 가격은 {:.0f}'.format(price))
